@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/hero.png</file>
+        <file>res/bullet1.png</file>
+        <file>res/bullet2.png</file>
+        <file>res/boss_0.png</file>
+        <file>res/boss_1.png</file>
+        <file>res/boss_2.png</file>
+        <file>res/boss_3.png</file>
+        <file>res/ballblue.png</file>
+        <file>res/ballred.png</file>
+        <file>res/gameover.png</file>
+        <file>res/ballpurple.png</file>
+    </qresource>
+</RCC>
